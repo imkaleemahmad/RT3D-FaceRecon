@@ -20,4 +20,4 @@ The project employs a PCA-based 3D model to represent facial configurations effi
 - The AFLW2000-3D dataset, 3DDFA, PCA implementations, and trained models are not included.
   
 ## License
-This project is licensed under the GNU GPL v3 License.
+This project is licensed under the MIT License.
