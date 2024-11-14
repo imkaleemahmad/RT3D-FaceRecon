@@ -1,4 +1,4 @@
-# 3D Face Reconstruction Using Deep Learning Techniques & Real-Time Visualization (RT3D-FaceRecon)
+## 3D Face Reconstruction Using Deep Learning Techniques & Real-Time Visualization (RT3D-FaceRecon)
 
 ## Project Overview
 This project involves developing a deep learning model to reconstruct 3D faces from 2D images, with real-time feedback to enhance dynamic visualization. The model processes each frame in a video stream, creating accurate 3D face representations optimized for applications like videoconferencing and interactive visualization.
